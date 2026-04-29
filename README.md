@@ -1,50 +1,44 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/aosoft/profile-assets/main/banner.png" alt="AOSoft Banner" />
-</p>
-
-<h1 align="center">👋 สวัสดีครับ เราคือทีมงาน AOSoft</h1>
+<h1 align="center">
+  ✨ Welcome to the Magical Coding Realm of Krisanakorn C. ✨
+</h1>
 
 <p align="center">
-  💻 <b>AOSoft Co., Ltd.</b> | 🚀 Web Development & Digital Solutions
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F72C5B&center=true&vCenter=true&width=435&lines=Mysterious+Web+Developer...;Coding+with+Anime+Power!;Transforming+coffee+into+code." alt="Typing SVG" />
 </p>
 
 ---
 
-## 🏢 เกี่ยวกับเรา
-AOSoft เป็นบริษัทที่ให้บริการด้านการพัฒนาเว็บไซต์และระบบ Web Application แบบครบวงจร  
-พร้อมบริการ Hosting, VPS, Domain, API Integration และบริการด้านความปลอดภัยเว็บไซต์ (Security Standard)
+### ⚔️ The Lore (About Me)
+- 🔭 Currently brewing some **secret cosmic projects (and cool websites)**
+- 🌱 Constantly learning and mastering **new coding magic**
+- ⚡ Fun fact: **My coding speed increases by 200% when listening to anime OSTs!**
+- 🎯 Goal: **Crafting applications that are both highly functional and visually magical**
 
----
+### 🔮 Magical Arsenal (Tech Stack)
+<p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
 
-## 🔧 Tech Stack
+### 📊 Adventure Stats (GitHub Stats)
 <p align="center">
-  <img src="https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff" />
-  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=000" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AjarnFifa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="AjarnFifa's GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AjarnFifa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight" height="165">
-</p>
-
----
-
-## 📫 ติดต่อเรา
-- 🌐 [www.aosoft.co.th](https://www.aosoft.co.th)  
-- ✉️ contact@aosoft.co.th  
-- 📱 Line: [@aosoft](https://lin.ee/xxxx)  
-
----
-
-<p align="center">
-  <i>“We build secure, scalable, and modern web solutions for your business.”</i>
+### 💌 Send Me a Secret Letter (Contact Me)
+<p align="left">
+  <a href="mailto:your.personal.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/AjarnFifa">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
 </p>
